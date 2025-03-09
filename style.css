@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    font-family: "inter";
+}
+
+#menu-superior{
+background-color: #303030;
+width: 1440px;
+height: 475px;
+}
+
+#titulo-superior{
+padding-top: 206px;
+margin-left: 62px;
+font-weight: 600px;
+font-size: 60px;
+line-height: 72px;
+color: white;
+}
+
+#texto-superior{
+    margin-left: 62px;
+    font-weight: 600px;
+    font-size: 20px;
+    line-height: 72px;
+    color: white;
+}
+
+
+
+
+
+.informacao{
+    
+    margin-left: 50px;
+    padding-top: 96px;
+    padding-bottom: 66px;
+    columns: left 99px;
+    height: 66.18px;
+    font-size: 20px;
+    line-height: 28px;
+    font-size: 20px;
+}
+
+.numero{
+    font-size: 40px;
+}
+
+
+#menu-informacional{
+    padding-left: 71px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    background-color: #f9f9f9;
+}
+
+
+
+
+
+#container-historia{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 90px;
+}
+
+#container-texto{
+    padding-top: 170px;
+    padding-left: 50px;
+    justify-content: center;
+    width: 60%;
+    
+}
+
+#container-imagem{
+   text-align: center;
+   width: 40%;
+   
+}
+
+#container-texto h1 {
+   padding-bottom: 20px;
+}
+
+#container-texto p {
+   padding-top: 20px;
+   font-size: 19px;
+}
